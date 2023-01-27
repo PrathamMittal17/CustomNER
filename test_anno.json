@@ -1,0 +1,1 @@
+{"classes":["GADGET","VIDEOGAME","ORG"],"annotations":[["Apple makes great phones.\r",{"entities":[[0,5,"ORG"]]}],["Steam has a great market.\r",{"entities":[[0,5,"ORG"]]}],["Valorant is played by many people.\r",{"entities":[[0,8,"VIDEOGAME"]]}]]}
